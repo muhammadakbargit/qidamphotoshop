@@ -9,12 +9,12 @@ import { store } from './store'
 Vue.use(Vuetify)
 
 firebase.initializeApp({
-  apiKey: "AIzaSyCc_cmgmYYulbgxm1PsdGMR7kfc7wT6Nkk",
-  authDomain: "qidamshop.firebaseapp.com",
-  databaseURL: "https://qidamshop.firebaseio.com",
-  projectId: "qidamshop",
-  storageBucket: "qidamshop.appspot.com",
-  messagingSenderId: "216068039854"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: ""
 });
 
 Vue.config.productionTip = false
